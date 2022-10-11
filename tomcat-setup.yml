@@ -25,6 +25,8 @@
   - name: Copy fil
     copy:
      src: /var/lib/jenkins/workspace/HelloWorldServlet-Pipeline/tomcat-users.xml
+=======
+     src: /var/lib/jenkins/hello-world-servlet/tomcat-users.xml
      dest: /usr/share/tomcat/conf/tomcat-users.xml
   - name: enable service tomcat
     systemd:
