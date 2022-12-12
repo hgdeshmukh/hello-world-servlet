@@ -57,3 +57,4 @@ develop
 12/12/2022 ---> Today is Monday
 twelth of december and it is monday
 11/12/2022 ----> yesterday date is added and the day was sunday
+13/12/2022 ----> tomorrow date is added and the day will be tuesday
